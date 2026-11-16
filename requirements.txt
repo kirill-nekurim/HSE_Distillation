@@ -1,0 +1,4 @@
+mlx==0.32.4
+mlx-vlm==0.7.12
+transformers==5.23.0
+Pillow>=10
